@@ -1,3 +1,5 @@
+# Given an integer, print its tens digit.
+
 # n=input()
 # x=n[-2:-1]
 # y=int(x)
