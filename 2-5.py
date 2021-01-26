@@ -1,2 +1,3 @@
 n=int(input())
-print(len(n))
+a=n//100
+b=n//10
