@@ -1,0 +1,1 @@
+Y=int(input())
